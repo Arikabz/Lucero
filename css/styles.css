@@ -11402,6 +11402,23 @@ header.masthead {
 header.masthead h1, header.masthead .h1 {
   font-size: 2.25rem;
 }
+@media (max-width: 991px){
+  header.masthead {
+    background: url(../assets/img/ML4_1.png);
+    background-position: 0 3rem;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+  }
+  header.masthead .btn, header.master .h1, header.masthead p, header.masthead .firstDivider{
+    display: none;
+
+  }
+  header.masthead h1{
+    margin-top: 5rem;
+    font-size: 2rem;
+  }
+}
 @media (min-width: 992px) {
   header.masthead {
     height: 100vh;
