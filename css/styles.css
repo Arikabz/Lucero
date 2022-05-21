@@ -11393,7 +11393,7 @@ hr.divider-light {
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 4.5rem);
-  background: url("../assets/img/ML3.png");
+  background: url("../assets/img/ML2.webp");
   background-position: 0 3rem;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -11404,7 +11404,7 @@ header.masthead h1, header.masthead .h1 {
 }
 @media (max-width: 991px){
   header.masthead {
-    background: url(../assets/img/ML4_1_1.jpg);
+    background: url(../assets/img/ML4.webp);
     background-position: 0 3rem;
     background-repeat: no-repeat;
     background-size: cover;
