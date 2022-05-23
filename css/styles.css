@@ -34,7 +34,7 @@
   --bs-gray-800: #343a40;
   --bs-gray-900: #212529;
   --bs-primary: #854586;
-  --bs-secondary: #6c757d;
+  --bs-secondary: #854586bd; 
   --bs-success: #198754;
   --bs-info: #0dcaf0;
   --bs-warning: #ffc107;
@@ -42,7 +42,7 @@
   --bs-light: #f8f9fa;
   --bs-dark: #212529;
   --bs-primary-rgb: 133, 69, 134;
-  --bs-secondary-rgb: 108, 117, 125;
+  --bs-secondary-rgb: 125,	60,	131;	
   --bs-success-rgb: 25, 135, 84;
   --bs-info-rgb: 13, 202, 240;
   --bs-warning-rgb: 255, 193, 7;
@@ -7672,6 +7672,9 @@ textarea.form-control-lg {
 .text-start {
   text-align: left !important;
 }
+.text-justify{
+  text-align: justify !important;
+}
 
 .text-end {
   text-align: right !important;
@@ -11319,6 +11322,7 @@ body {
   border-radius: 10rem;
 }
 
+
 hr.divider {
   height: 0.2rem;
   max-width: 3.25rem;
@@ -11484,6 +11488,10 @@ hr.firstDivider{
   margin: 1.5rem 1.5rem;
 }
 
-.igram .bi-instagram:hover, .facebook-hover .bi-facebook:hover, .whatsapp-hover .bi-whatsapp:hover{
+.igram .bi-instagram:hover, .facebook-hover .bi-facebook:hover, .whatsapp-hover .bi-whatsapp:hover, #enviarMsj:hover{
  color: #833AB4 !important;
+}
+
+a:link {
+  text-decoration: none!important;
 }
