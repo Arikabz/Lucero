@@ -9,16 +9,16 @@ This is a personal portfolio website where a client asked to display their infor
 
 **Tech used:** HTML, CSS, JavaScript
 
-Here's where you can go to town on how you actually built this thing. Write as much as you can here, it's totally fine if it's not too much just make sure you write *something*. If you don't have too much experience on your resume working on the front end that's totally fine. This is where you can really show off your passion and make up for that ten fold.
+Used HTML to display client's content, then CSS to edit a template and JavaScript to collect forms and make buttons responsive.
 
 ## Optimizations
 *(optional)*
 
-You don't have to include this section but interviewers *love* that you can not only deliver a final product that looks great but also functions efficiently. Did you write something then refactor it later and the result was 5x faster than the original implementation? Did you cache your assets? Things that you write in this section are **GREAT** to bring up in interviews and you can use this section as reference when studying for technical interviews!
+Could've made forms to be collected by hosting instead of using a third party service such as Formspree for this, making it more elegant, however Formspree has an ease to send information to personal email. Another thing is reducing the size of the images displayed further so that load times are shorter. 
 
 ## Lessons Learned:
 
-No matter what your experience level, being an engineer means continuously learning. Every time you build something you always have those *whoa this is awesome* or *fuck yeah I did it!* moments. This is where you should share those moments! Recruiters and interviewers love to see that you're self-aware and passionate about growing.
+Learned about formm collection and hosting services. Domain implementation from a third party using Netlify was confusing at first but rather simple looking back, however the terminology was new so learning about where to plug the nameservers was a challenge. Also familiarized myself with bootsrap terminology. Implemented WhatsApp API to send template message to a static number.
 
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
