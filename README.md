@@ -3,7 +3,7 @@ This is a personal portfolio website where a client asked to display their infor
 
 **Link to project:** http://lucerozavala.com
 
-![alt tag](/Lucero/assets/img/lucero1.gif)
+![alt tag](/assets/img/lucero1.gif)
 
 ## How It's Made:
 
