@@ -12,7 +12,6 @@ This is a personal portfolio website where a client asked to display their infor
 Used HTML to display client's content, then CSS to edit a template and JavaScript to collect forms and make buttons responsive.
 
 ## Optimizations
-*(optional)*
 
 Could've made forms to be collected by hosting instead of using a third party service such as Formspree for this, making it more elegant, however Formspree has an ease to send information to personal email. Another thing is reducing the size of the images displayed further so that load times are shorter. 
 
