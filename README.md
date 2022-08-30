@@ -22,11 +22,11 @@ Learned about formm collection and hosting services. Domain implementation from 
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
 
-**Palettable:** https://github.com/alecortega/palettable
+**ListApp:** https://github.com/Arikabz/ListAppV1.0
 
-**Twitter Battle:** https://github.com/alecortega/twitter-battle
+**GREDSA Business Website:** https://github.com/Arikabz/GREDSA
 
-**Patch Panel:** https://github.com/alecortega/patch-panel
+**TecnoH2O Business Website:** https://github.com/Arikabz/TecnoH2O
 
 
 
